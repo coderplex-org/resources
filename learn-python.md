@@ -11,3 +11,6 @@
 
 ### Courses 
 1. https://www.class-central.com/search?q=python(edited)
+
+### Web Development 
+1.Django : https://peeomid.com/blog/2018-01-26-what-i-wish-i-knew-when-i-started-django-development-2018/
