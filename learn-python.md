@@ -11,3 +11,10 @@
 
 ### Courses 
 1. https://www.class-central.com/search?q=python(edited)
+
+### Django Framework
+1. https://www.fullstackpython.com/django.html
+2. https://djangobook.com/
+3. https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK 
+4. https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy
+5. https://tutorial.djangogirls.org/en/
