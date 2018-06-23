@@ -1,3 +1,12 @@
+# Learn AI
+
+This is a list of resources for learning and exploring AI!
+
+## Contents
+1. Courses [#Courses]
+2. Books [#Books]
+3. YouTubers [#YouTubers]
+
 ## Courses
 - [Machine Learning - Stanford by Andrew Ng](https://class.coursera.org/ml-005)
 - [Machine Learning - Caltech by Yaser Abu-Mostafa](http://work.caltech.edu/lectures.html)
