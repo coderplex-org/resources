@@ -38,3 +38,15 @@
 - [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind](https://www.amazon.com/gp/product/0743276647)
 - [AI & ML Topic Wise](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
 
+## YouTubers
+- [Sentdex](https://www.youtube.com/user/sentdex)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Labhesh Patel](https://www.youtube.com/channel/UCMq6IdbXar_KtYixMS_wHcQ)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
+- [Hvass Laboratories](https://www.youtube.com/channel/UCbba38V6vcglqVL--8kVVmg)
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+- [The Semicolon](https://www.youtube.com/channel/UCwB7HrnRlOfasrbCJoiZ9Lg)
+- [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
