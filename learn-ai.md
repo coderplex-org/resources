@@ -5,7 +5,7 @@ This is a list of resources for learning and exploring AI!
 ## Contents
 1. [Courses](#courses)
 2. [Free Books](#books)
-3. [Paid Books](paid-books)
+3. [Paid Books](#paid-books)
 4. [YouTubers](#youtubers)
 ## Courses
 - [Machine Learning - Stanford by Andrew Ng](https://class.coursera.org/ml-005)
