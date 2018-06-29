@@ -4,8 +4,9 @@ This is a list of resources for learning and exploring AI!
 
 ## Contents
 1. [Courses](#courses)
-2. [Books](#books)
-3. [YouTubers](#youtubers)
+2. [Free Books](#books)
+3. [Paid Books](paid-books)
+4. [YouTubers](#youtubers)
 ## Courses
 - [Machine Learning - Stanford by Andrew Ng](https://class.coursera.org/ml-005)
 - [Machine Learning - Caltech by Yaser Abu-Mostafa](http://work.caltech.edu/lectures.html)
@@ -37,14 +38,17 @@ This is a list of resources for learning and exploring AI!
 ## Books
 - [The Deep Learning Book](http://www.deeplearningbook.org)
 - [Deep Learning: Methods and Applications](https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F209355%2Fdeeplearning-nowpublishing-vol7-sig-039.pdf)
-- [Artificial Intelligence - A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
-- [The Cambridge Handbook of AI](https://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915)
-- [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7)
 - [Reinforcemnet Learning - An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html)
 - [Deep Learning Tutorial - Lisa Lab, U of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
-- [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11)
-- [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind](https://www.amazon.com/gp/product/0743276647)
 - [AI & ML Topic Wise](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
+
+## Paid Books
+
+  - [Artificial Intelligence - A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
+  - [The Cambridge Handbook of AI](https://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915)
+  - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7)
+  - [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11)
+  - [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind](https://www.amazon.com/gp/product/0743276647)
 
 ## YouTubers
 - [Sentdex](https://www.youtube.com/user/sentdex)
