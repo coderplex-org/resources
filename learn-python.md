@@ -1,6 +1,7 @@
 ### Best Free Books 
 1. https://pythonbooks.revolunet.com/ 
 2. https://github.com/Junnplus/awesome-python-books 
+3. https://www.souravsengupta.com/cds2015/python/LPTHW.pdf 
 
 ### Learn CS with Python 
 1. https://interactivepython.org/runestone/static/thinkcspy/index.html 
