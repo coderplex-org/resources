@@ -7,15 +7,24 @@ This is a list of resources for learning and exploring AI!
 2. [Free Books](#books)
 3. [Paid Books](#paid-books)
 4. [YouTubers](#youtubers)
-## Courses
+
+## Linear Algebra Courses
+  - [Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  
+## Machine Learning Courses
 - [Machine Learning - Stanford by Andrew Ng](https://class.coursera.org/ml-005)
 - [Machine Learning - Caltech by Yaser Abu-Mostafa](http://work.caltech.edu/lectures.html)
 - [Machine Learning - CMU by Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- [Machine Learning - UDUB](https://www.coursera.org/specializations/machine-learning)
+- [Applied ML in Python - UMich](https://www.coursera.org/learn/python-machine-learning)
+- [Advanced Machine Learning - HSE](https://www.coursera.org/specializations/aml)
+
+## Deep Learning Courses
 - [STAT 946: Deep Learning - UWaterloo (Fall 2017)](https://youtu.be/XTWPyW2mTUg)
 - [CS 294: Deep Reinforcement Learning, Fall 2018 (UC Berkely)](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [CS188X: Artificial Intelligence (UC Berkely)](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/)
 - [Deep Learning by Andrew Ng](https://deeplearning.ai)
-- [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - [MIT 6.S191: Intro to Deep Learning](http://introtodeeplearning.com)
 - [Deep Learning School: 2016](https://www.youtube.com/watch?v=zij_FTbJHsk&list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW)
 - [Practical Deep Learning For Coders - FastAI](http://course.fast.ai)
@@ -30,10 +39,9 @@ This is a list of resources for learning and exploring AI!
 - [Deep Reinforcement Learning and Control - CMU](https://katefvision.github.io)
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
-- [Machine Learning - UDUB](https://www.coursera.org/specializations/machine-learning)
 - [Neural Networks for Machine Learning - Utoronto](https://www.coursera.org/learn/neural-networks)
-- [Applied ML in Python - UMich](https://www.coursera.org/learn/python-machine-learning)
-- [Advanced Machine Learning - HSE](https://www.coursera.org/specializations/aml)
+
+
 
 ## Books
 - [The Deep Learning Book](http://www.deeplearningbook.org)
